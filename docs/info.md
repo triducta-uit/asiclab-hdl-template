@@ -8,10 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-Explain how your project works
+Explain how your project works, this sample is the adder 8 bits.
 
 ## How to test
-Explain how to use your project
+Explain how to use your project, with this design just give two input to ui and uio the output will be uo = ui + uio.
 
 ## External hardware
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
